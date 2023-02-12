@@ -14,3 +14,7 @@
 ![img_3.png](img/img_3.png)
 
 ## Part 2
+1. Pushe das Repo auf GitHub
+2. Erstelle einen neuen Workflow\
+![img.png](img/img_4.png)
+![img.png](img/img_5.png)
